@@ -3,8 +3,8 @@ Script to calculate cylinder area given height and diameter
 Author: Kelechi K
 
 """
-#variables length, diameter
-# formula for area of cylinder: 2π(d/2)^2 + 2π(d/2)h
+#variables length, diameter, PI
+# formula for area of cylinder: 2π(d/2)^2 + 2π(d/2)h where d is diameter
 
 PI: float = 3.142
 
